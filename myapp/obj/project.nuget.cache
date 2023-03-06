@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "BHZynPb8rotm6WNCfrD1KHNQLAFzAObnzrC7y5uwbpKiz1AdCMEA8OyS5f+MZRGoWjq14AZxgaYgq3vgXmWttg==",
+  "success": true,
+  "projectFilePath": "/home/murad/Desktop/AP109/myapp/myapp.csproj",
+  "expectedPackageFiles": [
+    "/home/murad/.nuget/packages/microsoft.aspnetcore.app.ref/7.0.3/microsoft.aspnetcore.app.ref.7.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
