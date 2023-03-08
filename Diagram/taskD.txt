@@ -1,0 +1,11 @@
+Program start
+initialize variable from = 3
+initialize variable to = 12
+for each element from to
+    if i < from
+        if from % i == 0
+            break
+    else
+        print from
+Program end
+

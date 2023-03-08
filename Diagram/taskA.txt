@@ -1,0 +1,8 @@
+Program start
+initialize variable value = 5
+initialize variable i = 0
+while value != 0
+    i = i + value
+    value = value - 1
+print i
+Program end
