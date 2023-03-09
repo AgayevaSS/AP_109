@@ -1,0 +1,8 @@
+Program start
+initialize variable variable, count = 0
+do 
+    count = count + value % 10
+    value = value / 10
+while value > 1
+print count
+Program end

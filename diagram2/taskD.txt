@@ -1,0 +1,8 @@
+Program start
+initialize variable variable, count = 1
+do 
+    count = count * value
+    value = value - 1
+while value > 1
+print count
+Program end

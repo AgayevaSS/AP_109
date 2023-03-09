@@ -1,0 +1,10 @@
+Program start
+initialize variable value
+initialize variable pow
+initialize variable i = 1
+initialize variable count = 1
+while pow > 0
+    count = count * value
+    pow = pow - 1
+print count
+Program end
