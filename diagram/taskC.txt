@@ -6,12 +6,10 @@ initialize variable value = 7
         i = 2
         from i to value
             if n % i == 0
-                flag = 0
                 print sade deil
-                Program end
-        flag = 1
-        if flag == 1
-            print sade
-            Program end
+                break
+            else
+                print sade
+                break
     Program end
 
