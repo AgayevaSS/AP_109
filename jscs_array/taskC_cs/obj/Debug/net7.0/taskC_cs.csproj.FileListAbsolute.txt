@@ -1,0 +1,15 @@
+/home/murad/Desktop/AP109/jscs_array/taskC_cs/obj/Debug/net7.0/taskC_cs.csproj.AssemblyReference.cache
+/home/murad/Desktop/AP109/jscs_array/taskC_cs/obj/Debug/net7.0/taskC_cs.GeneratedMSBuildEditorConfig.editorconfig
+/home/murad/Desktop/AP109/jscs_array/taskC_cs/obj/Debug/net7.0/taskC_cs.AssemblyInfoInputs.cache
+/home/murad/Desktop/AP109/jscs_array/taskC_cs/obj/Debug/net7.0/taskC_cs.AssemblyInfo.cs
+/home/murad/Desktop/AP109/jscs_array/taskC_cs/obj/Debug/net7.0/taskC_cs.csproj.CoreCompileInputs.cache
+/home/murad/Desktop/AP109/jscs_array/taskC_cs/bin/Debug/net7.0/taskC_cs
+/home/murad/Desktop/AP109/jscs_array/taskC_cs/bin/Debug/net7.0/taskC_cs.deps.json
+/home/murad/Desktop/AP109/jscs_array/taskC_cs/bin/Debug/net7.0/taskC_cs.runtimeconfig.json
+/home/murad/Desktop/AP109/jscs_array/taskC_cs/bin/Debug/net7.0/taskC_cs.dll
+/home/murad/Desktop/AP109/jscs_array/taskC_cs/bin/Debug/net7.0/taskC_cs.pdb
+/home/murad/Desktop/AP109/jscs_array/taskC_cs/obj/Debug/net7.0/taskC_cs.dll
+/home/murad/Desktop/AP109/jscs_array/taskC_cs/obj/Debug/net7.0/refint/taskC_cs.dll
+/home/murad/Desktop/AP109/jscs_array/taskC_cs/obj/Debug/net7.0/taskC_cs.pdb
+/home/murad/Desktop/AP109/jscs_array/taskC_cs/obj/Debug/net7.0/taskC_cs.genruntimeconfig.cache
+/home/murad/Desktop/AP109/jscs_array/taskC_cs/obj/Debug/net7.0/ref/taskC_cs.dll

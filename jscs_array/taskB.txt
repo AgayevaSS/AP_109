@@ -1,0 +1,12 @@
+Program Start
+initialize array arr
+initialize variable n
+initialize sum1
+initialize sum2
+for n = 0 to (arr.length - 1)
+    if arr[n] > 0
+        sum1 += arr[n]
+    else
+        sum2 += arr[n]
+print sum1, sum2
+Program End

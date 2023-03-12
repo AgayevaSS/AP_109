@@ -1,0 +1,12 @@
+Program Start
+initialize array arr
+initialize array arr1
+initialize array arr2
+initialize variable n
+initialize variable limit
+for n = 0 to (arr.length - 1)
+    if arr[n] > limit
+        arr1 += arr[n]
+print arr1
+Program End 
+

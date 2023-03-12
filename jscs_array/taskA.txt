@@ -1,0 +1,12 @@
+Program Start
+initialize array arr
+initialize variable n
+for n = 0 to (arr.length - 1)
+    for j = 0 to n
+        if arr[j] > arr[j + 1]
+            initialize variable m
+            m = arr[j]
+            arr[j] = arr[j + 1]
+            arr[j + 1] = m
+print arr[length -2], ar[1]
+Program End
